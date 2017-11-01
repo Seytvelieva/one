@@ -1,5 +1,5 @@
 Всем привет, освиваем команды Git
 
-1 developer
-Sec developer
+1
+2 developer
 3 developer
